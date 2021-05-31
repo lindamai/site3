@@ -7,7 +7,7 @@ body{
 }
 #header-nav{
   background-color:#c46f84;  
-  border:2px solid #000; 
+  border:2px solid #000000; 
   border-radius: 0;
 }
 .navbar-brand{
@@ -18,7 +18,7 @@ body{
   margin:0 -15px !important;
 }
 .navbar-brand h1{
-  color: #000;
+  color: #000000;
   font-size: 1.5em;
   font-weight: bold;
   margin-top: 0;
@@ -43,7 +43,7 @@ body{
   border-bottom:0;
 }
 #nav-list li a{
-  color:#000;
+  color:#000000;
   font-weight: 600;
   line-height: 8px
 }
